@@ -1,80 +1,118 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# React Native Project
 
-# Getting Started
+This is a React Native project built with React Native CLI. It demonstrates various components and navigation. The project includes tests using Jest to ensure the functionality works as expected.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Installation
 
-## Step 1: Start the Metro Server
+To get started with the project, follow the steps below:
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
+### 1. Clone the repository
 
 ```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
+git clone git@github.com:coyot1904/financial-assets.git
 ```
 
-## Step 2: Start your Application
+### 2. Install dependencies
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
+First, navigate to the project directory:
 
 ```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
+cd financial-assets
 ```
 
-### For iOS
+Then, install the project dependencies:
 
 ```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
+npm install
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+### 3. Link native dependencies (if needed)
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+Although React Native 0.60 and above supports auto-linking for most libraries, in some cases, you might need to link dependencies manually. For the required libraries, auto-linking should work, but in case it doesn't, use:
 
-## Step 3: Modifying your App
+```bash
+npx react-native link
+```
 
-Now that you have successfully run the app, let's modify it.
+Install the necessary CocoaPods dependencies:
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+```bash
+cd ios
+```
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+```bash
+npx react-native link
+```
 
-## Congratulations! :tada:
+```bash
+cd ..
+```
 
-You've successfully run and modified your React Native App. :partying_face:
+### 4. Run the project
 
-### Now what?
+Now that everything is set up, you can run the project on your preferred platform.
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+For iOS:
 
-# Troubleshooting
+```bash
+npx react-native run-ios
+```
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+For Android:
 
-# Learn More
+```bash
+npx react-native run-android
+```
 
-To learn more about React Native, take a look at the following resources:
+### 5. Test the app
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-# financial-assets
+To run the Jest tests included with the project:
+
+```bash
+npm test
+```
+
+This command will run the tests using Jest to ensure the functionality is working as expected.
+
+---
+
+## Dependencies
+
+### `dependencies` used in this project:
+
+- **`@react-native-masked-view/masked-view`**: Provides a component to create masked views, allowing you to apply visual effects like circular or rounded corners on views.
+- **`@react-native/js-polyfills`**: Adds JavaScript polyfills to ensure compatibility with older JavaScript engines.
+
+- **`@react-navigation/native`**: A core package for setting up navigation in React Native apps, handling navigation between screens.
+
+- **`@react-navigation/native-stack`**: Provides native stack navigation to switch between different screens with smooth transitions.
+
+- **`@react-navigation/stack`**: Used to configure stack navigation for navigating between screens using stack-based navigation.
+
+- **`react`**: The core React library, which is used to build components and handle the user interface logic.
+
+- **`react-native`**: The React Native framework, allowing you to build mobile apps for iOS and Android using JavaScript and React.
+
+- **`react-native-gesture-handler`**: Used for handling gestures in React Native apps, providing support for swipe, pinch, and drag gestures.
+
+- **`react-native-safe-area-context`**: Provides a way to handle safe area insets on iOS devices, ensuring that UI elements are not obstructed by the device’s screen edges or notches.
+
+- **`react-native-screens`**: Optimizes navigation in React Native apps by using native navigation components for screen transitions, improving performance.
+
+---
+
+## Additional Information
+
+This project is a test to showcase the skills in React Native development. The app has been built using the following features:
+
+- **React Navigation**: For managing screen navigation and transitions.
+- **Custom Components**: Created reusable UI components to manage common tasks.
+- **Jest Testing**: Ensured functionality with unit tests and component tests using Jest.
+
+If you have any questions or need further clarification, feel free to reach out!
+
+---
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
