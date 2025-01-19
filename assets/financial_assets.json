@@ -1,0 +1,4002 @@
+[
+    {
+        "id": 1,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 32.93,
+        "dailyChangePercent": 0.25
+    },
+    {
+        "id": 2,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 2654.41,
+        "dailyChangePercent": 0.34
+    },
+    {
+        "id": 3,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 1016.29,
+        "dailyChangePercent": -4.53
+    },
+    {
+        "id": 4,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 1156.74,
+        "dailyChangePercent": 3.47
+    },
+    {
+        "id": 5,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 413.15,
+        "dailyChangePercent": -3.48
+    },
+    {
+        "id": 6,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 2431.54,
+        "dailyChangePercent": 0.43
+    },
+    {
+        "id": 7,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 3001.76,
+        "dailyChangePercent": -1.41
+    },
+    {
+        "id": 8,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 3077.53,
+        "dailyChangePercent": -1.26
+    },
+    {
+        "id": 9,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 1354.99,
+        "dailyChangePercent": 4.25
+    },
+    {
+        "id": 10,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 1580.86,
+        "dailyChangePercent": 3.32
+    },
+    {
+        "id": 11,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 2702.21,
+        "dailyChangePercent": 4.36
+    },
+    {
+        "id": 12,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 4150.72,
+        "dailyChangePercent": 0.85
+    },
+    {
+        "id": 13,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 970.61,
+        "dailyChangePercent": 2.7
+    },
+    {
+        "id": 14,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "stock",
+        "currentPrice": 4674.23,
+        "dailyChangePercent": 1.76
+    },
+    {
+        "id": 15,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "crypto",
+        "currentPrice": 3142.11,
+        "dailyChangePercent": -2.26
+    },
+    {
+        "id": 16,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 1422.77,
+        "dailyChangePercent": 3.49
+    },
+    {
+        "id": 17,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 3646.11,
+        "dailyChangePercent": -3.52
+    },
+    {
+        "id": 18,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 605.64,
+        "dailyChangePercent": -3.56
+    },
+    {
+        "id": 19,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 4667.42,
+        "dailyChangePercent": 3.13
+    },
+    {
+        "id": 20,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 3865.06,
+        "dailyChangePercent": -3.48
+    },
+    {
+        "id": 21,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 2194.57,
+        "dailyChangePercent": 4.26
+    },
+    {
+        "id": 22,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 3852.83,
+        "dailyChangePercent": 1.69
+    },
+    {
+        "id": 23,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 2841.4,
+        "dailyChangePercent": -0.29
+    },
+    {
+        "id": 24,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 1437.34,
+        "dailyChangePercent": 0.26
+    },
+    {
+        "id": 25,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 2312.08,
+        "dailyChangePercent": -3.73
+    },
+    {
+        "id": 26,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 1802.3,
+        "dailyChangePercent": -3.69
+    },
+    {
+        "id": 27,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 2688.6,
+        "dailyChangePercent": -4.1
+    },
+    {
+        "id": 28,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 4271.59,
+        "dailyChangePercent": 3.1
+    },
+    {
+        "id": 29,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "crypto",
+        "currentPrice": 2547.6,
+        "dailyChangePercent": -1.28
+    },
+    {
+        "id": 30,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 4820.48,
+        "dailyChangePercent": 4.93
+    },
+    {
+        "id": 31,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 4614.13,
+        "dailyChangePercent": 1.2
+    },
+    {
+        "id": 32,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1758.28,
+        "dailyChangePercent": -3.79
+    },
+    {
+        "id": 33,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1425.82,
+        "dailyChangePercent": -2.89
+    },
+    {
+        "id": 34,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "crypto",
+        "currentPrice": 3801.19,
+        "dailyChangePercent": -3.38
+    },
+    {
+        "id": 35,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 2199.63,
+        "dailyChangePercent": 4.49
+    },
+    {
+        "id": 36,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 1577.46,
+        "dailyChangePercent": -1.34
+    },
+    {
+        "id": 37,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2731.98,
+        "dailyChangePercent": 3.67
+    },
+    {
+        "id": 38,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 4465.25,
+        "dailyChangePercent": 2.87
+    },
+    {
+        "id": 39,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 4333.81,
+        "dailyChangePercent": -2.93
+    },
+    {
+        "id": 40,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 3180.03,
+        "dailyChangePercent": -1.51
+    },
+    {
+        "id": 41,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 1122.17,
+        "dailyChangePercent": -3.31
+    },
+    {
+        "id": 42,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 404.7,
+        "dailyChangePercent": -4.11
+    },
+    {
+        "id": 43,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 1957.1,
+        "dailyChangePercent": -2.98
+    },
+    {
+        "id": 44,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 48.38,
+        "dailyChangePercent": -0.8
+    },
+    {
+        "id": 45,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 56.98,
+        "dailyChangePercent": -3.16
+    },
+    {
+        "id": 46,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 2899.01,
+        "dailyChangePercent": 2.83
+    },
+    {
+        "id": 47,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 3661.79,
+        "dailyChangePercent": -1.45
+    },
+    {
+        "id": 48,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 2910.46,
+        "dailyChangePercent": 1.77
+    },
+    {
+        "id": 49,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 1859.03,
+        "dailyChangePercent": -4.71
+    },
+    {
+        "id": 50,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 894.78,
+        "dailyChangePercent": -0.92
+    },
+    {
+        "id": 51,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 2635.55,
+        "dailyChangePercent": -1.76
+    },
+    {
+        "id": 52,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 3503.8,
+        "dailyChangePercent": -4.52
+    },
+    {
+        "id": 53,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 2373.59,
+        "dailyChangePercent": 2.82
+    },
+    {
+        "id": 54,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 2207.74,
+        "dailyChangePercent": 2.8
+    },
+    {
+        "id": 55,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 4383.08,
+        "dailyChangePercent": 2.8
+    },
+    {
+        "id": 56,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 191.45,
+        "dailyChangePercent": 0.5
+    },
+    {
+        "id": 57,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 3831.6,
+        "dailyChangePercent": 1.47
+    },
+    {
+        "id": 58,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 3611.03,
+        "dailyChangePercent": 0.75
+    },
+    {
+        "id": 59,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 4463.32,
+        "dailyChangePercent": 3.48
+    },
+    {
+        "id": 60,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "stock",
+        "currentPrice": 957.09,
+        "dailyChangePercent": 4.49
+    },
+    {
+        "id": 61,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 3447.98,
+        "dailyChangePercent": -4.38
+    },
+    {
+        "id": 62,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1798.32,
+        "dailyChangePercent": -0.94
+    },
+    {
+        "id": 63,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 502.14,
+        "dailyChangePercent": 2.93
+    },
+    {
+        "id": 64,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 1584.96,
+        "dailyChangePercent": 4.15
+    },
+    {
+        "id": 65,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "stock",
+        "currentPrice": 4173.06,
+        "dailyChangePercent": -2.02
+    },
+    {
+        "id": 66,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 3628.04,
+        "dailyChangePercent": -2.11
+    },
+    {
+        "id": 67,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 3114.49,
+        "dailyChangePercent": 2.63
+    },
+    {
+        "id": 68,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 3818.22,
+        "dailyChangePercent": -3.31
+    },
+    {
+        "id": 69,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "stock",
+        "currentPrice": 52.64,
+        "dailyChangePercent": -3.27
+    },
+    {
+        "id": 70,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 3311.71,
+        "dailyChangePercent": -0.36
+    },
+    {
+        "id": 71,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 2832.51,
+        "dailyChangePercent": -2.65
+    },
+    {
+        "id": 72,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 851.01,
+        "dailyChangePercent": -1.32
+    },
+    {
+        "id": 73,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 3213.56,
+        "dailyChangePercent": -3.19
+    },
+    {
+        "id": 74,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 5003.98,
+        "dailyChangePercent": -4.38
+    },
+    {
+        "id": 75,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 4664.15,
+        "dailyChangePercent": 3.62
+    },
+    {
+        "id": 76,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 2861.35,
+        "dailyChangePercent": 4.07
+    },
+    {
+        "id": 77,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 1589.52,
+        "dailyChangePercent": 2.09
+    },
+    {
+        "id": 78,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 2074.29,
+        "dailyChangePercent": -1.07
+    },
+    {
+        "id": 79,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 707.85,
+        "dailyChangePercent": 2.55
+    },
+    {
+        "id": 80,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 5001.22,
+        "dailyChangePercent": 4.38
+    },
+    {
+        "id": 81,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 2922.81,
+        "dailyChangePercent": -2.46
+    },
+    {
+        "id": 82,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2435.09,
+        "dailyChangePercent": -0.6
+    },
+    {
+        "id": 83,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 4880.39,
+        "dailyChangePercent": -4.62
+    },
+    {
+        "id": 84,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 4360.15,
+        "dailyChangePercent": 0.65
+    },
+    {
+        "id": 85,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 3503.94,
+        "dailyChangePercent": 4.46
+    },
+    {
+        "id": 86,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 2664.62,
+        "dailyChangePercent": -4.44
+    },
+    {
+        "id": 87,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 2284.56,
+        "dailyChangePercent": 0.33
+    },
+    {
+        "id": 88,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 416.23,
+        "dailyChangePercent": -2.91
+    },
+    {
+        "id": 89,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 1985.74,
+        "dailyChangePercent": -2.01
+    },
+    {
+        "id": 90,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 2337.37,
+        "dailyChangePercent": -2.17
+    },
+    {
+        "id": 91,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 1991.88,
+        "dailyChangePercent": 1.59
+    },
+    {
+        "id": 92,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 2683.82,
+        "dailyChangePercent": -3.38
+    },
+    {
+        "id": 93,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 1553.06,
+        "dailyChangePercent": 2.07
+    },
+    {
+        "id": 94,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "crypto",
+        "currentPrice": 4338.72,
+        "dailyChangePercent": -1.7
+    },
+    {
+        "id": 95,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 4583.36,
+        "dailyChangePercent": 3.11
+    },
+    {
+        "id": 96,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 255.37,
+        "dailyChangePercent": 4.93
+    },
+    {
+        "id": 97,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 1909.21,
+        "dailyChangePercent": -0.49
+    },
+    {
+        "id": 98,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "stock",
+        "currentPrice": 1316.32,
+        "dailyChangePercent": -3.23
+    },
+    {
+        "id": 99,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 2853.95,
+        "dailyChangePercent": -0.18
+    },
+    {
+        "id": 100,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 2122.96,
+        "dailyChangePercent": 4.6
+    },
+    {
+        "id": 101,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "stock",
+        "currentPrice": 4987.98,
+        "dailyChangePercent": 0.79
+    },
+    {
+        "id": 102,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 2169.53,
+        "dailyChangePercent": 1.54
+    },
+    {
+        "id": 103,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 2678.24,
+        "dailyChangePercent": 4.79
+    },
+    {
+        "id": 104,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 3644.66,
+        "dailyChangePercent": 2.08
+    },
+    {
+        "id": 105,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 4887.25,
+        "dailyChangePercent": 3.33
+    },
+    {
+        "id": 106,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 505.77,
+        "dailyChangePercent": 1.93
+    },
+    {
+        "id": 107,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "stock",
+        "currentPrice": 3305.02,
+        "dailyChangePercent": -1.74
+    },
+    {
+        "id": 108,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 2912,
+        "dailyChangePercent": -4.54
+    },
+    {
+        "id": 109,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 4988.26,
+        "dailyChangePercent": 3.28
+    },
+    {
+        "id": 110,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 2259.9,
+        "dailyChangePercent": 1.16
+    },
+    {
+        "id": 111,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 1291.91,
+        "dailyChangePercent": 3.2
+    },
+    {
+        "id": 112,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 1762.67,
+        "dailyChangePercent": -4.44
+    },
+    {
+        "id": 113,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "crypto",
+        "currentPrice": 4266.99,
+        "dailyChangePercent": -3.29
+    },
+    {
+        "id": 114,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "stock",
+        "currentPrice": 90.89,
+        "dailyChangePercent": 3.45
+    },
+    {
+        "id": 115,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 1831.12,
+        "dailyChangePercent": -2.78
+    },
+    {
+        "id": 116,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 1676.2,
+        "dailyChangePercent": -4.89
+    },
+    {
+        "id": 117,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 4244.65,
+        "dailyChangePercent": -2.73
+    },
+    {
+        "id": 118,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 1097.77,
+        "dailyChangePercent": 3.06
+    },
+    {
+        "id": 119,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 1169.48,
+        "dailyChangePercent": 3.19
+    },
+    {
+        "id": 120,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 930.18,
+        "dailyChangePercent": 2.02
+    },
+    {
+        "id": 121,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "stock",
+        "currentPrice": 1834.69,
+        "dailyChangePercent": 0.71
+    },
+    {
+        "id": 122,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 3162.68,
+        "dailyChangePercent": -0.03
+    },
+    {
+        "id": 123,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 4975.75,
+        "dailyChangePercent": 1.74
+    },
+    {
+        "id": 124,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 1487.29,
+        "dailyChangePercent": -2.13
+    },
+    {
+        "id": 125,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "crypto",
+        "currentPrice": 3934.08,
+        "dailyChangePercent": 3.04
+    },
+    {
+        "id": 126,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 4320,
+        "dailyChangePercent": -2.94
+    },
+    {
+        "id": 127,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 371.44,
+        "dailyChangePercent": -0.37
+    },
+    {
+        "id": 128,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 3308.25,
+        "dailyChangePercent": 4.96
+    },
+    {
+        "id": 129,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 4368.16,
+        "dailyChangePercent": -2.62
+    },
+    {
+        "id": 130,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 440.39,
+        "dailyChangePercent": -4.08
+    },
+    {
+        "id": 131,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 214.39,
+        "dailyChangePercent": -3.36
+    },
+    {
+        "id": 132,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 580.6,
+        "dailyChangePercent": 2.25
+    },
+    {
+        "id": 133,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 3033.25,
+        "dailyChangePercent": 2.97
+    },
+    {
+        "id": 134,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 4917.83,
+        "dailyChangePercent": 4.63
+    },
+    {
+        "id": 135,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 3716.33,
+        "dailyChangePercent": 3.75
+    },
+    {
+        "id": 136,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 4650.08,
+        "dailyChangePercent": 0.64
+    },
+    {
+        "id": 137,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 4146.06,
+        "dailyChangePercent": -4.81
+    },
+    {
+        "id": 138,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 2834.03,
+        "dailyChangePercent": 1.09
+    },
+    {
+        "id": 139,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 3577,
+        "dailyChangePercent": -0.17
+    },
+    {
+        "id": 140,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 4350.76,
+        "dailyChangePercent": -2.75
+    },
+    {
+        "id": 141,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2435.54,
+        "dailyChangePercent": 0.23
+    },
+    {
+        "id": 142,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "crypto",
+        "currentPrice": 2929.01,
+        "dailyChangePercent": 4.59
+    },
+    {
+        "id": 143,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 2459.26,
+        "dailyChangePercent": -0.89
+    },
+    {
+        "id": 144,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 2050.85,
+        "dailyChangePercent": 1.91
+    },
+    {
+        "id": 145,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 1724.32,
+        "dailyChangePercent": 2.26
+    },
+    {
+        "id": 146,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 3191.96,
+        "dailyChangePercent": -3.67
+    },
+    {
+        "id": 147,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 4173.65,
+        "dailyChangePercent": -3.94
+    },
+    {
+        "id": 148,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 112.19,
+        "dailyChangePercent": -3.37
+    },
+    {
+        "id": 149,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 2093.27,
+        "dailyChangePercent": -3.77
+    },
+    {
+        "id": 150,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 1573.78,
+        "dailyChangePercent": 2.27
+    },
+    {
+        "id": 151,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 1256.1,
+        "dailyChangePercent": 3.77
+    },
+    {
+        "id": 152,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 93.57,
+        "dailyChangePercent": 4.38
+    },
+    {
+        "id": 153,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 3047.29,
+        "dailyChangePercent": 4.1
+    },
+    {
+        "id": 154,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 2336.34,
+        "dailyChangePercent": -1.64
+    },
+    {
+        "id": 155,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 1523.24,
+        "dailyChangePercent": 4.28
+    },
+    {
+        "id": 156,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 1532.22,
+        "dailyChangePercent": 1.94
+    },
+    {
+        "id": 157,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 1097.75,
+        "dailyChangePercent": -3.52
+    },
+    {
+        "id": 158,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 2711.04,
+        "dailyChangePercent": 0.52
+    },
+    {
+        "id": 159,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 1772.34,
+        "dailyChangePercent": -1.98
+    },
+    {
+        "id": 160,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 1819.53,
+        "dailyChangePercent": 4.22
+    },
+    {
+        "id": 161,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 3044.2,
+        "dailyChangePercent": -2.17
+    },
+    {
+        "id": 162,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 4114,
+        "dailyChangePercent": 4.61
+    },
+    {
+        "id": 163,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "stock",
+        "currentPrice": 1717.03,
+        "dailyChangePercent": 1.56
+    },
+    {
+        "id": 164,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1646.18,
+        "dailyChangePercent": -4.57
+    },
+    {
+        "id": 165,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 1137.89,
+        "dailyChangePercent": 2.97
+    },
+    {
+        "id": 166,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 3471.31,
+        "dailyChangePercent": 0.45
+    },
+    {
+        "id": 167,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 4098.77,
+        "dailyChangePercent": -1.74
+    },
+    {
+        "id": 168,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 4584.48,
+        "dailyChangePercent": -4.73
+    },
+    {
+        "id": 169,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 2960.11,
+        "dailyChangePercent": 1.14
+    },
+    {
+        "id": 170,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 582.41,
+        "dailyChangePercent": 2.06
+    },
+    {
+        "id": 171,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 611.37,
+        "dailyChangePercent": -2.37
+    },
+    {
+        "id": 172,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1706.51,
+        "dailyChangePercent": -4.77
+    },
+    {
+        "id": 173,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 3567.4,
+        "dailyChangePercent": -4.97
+    },
+    {
+        "id": 174,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 1308.45,
+        "dailyChangePercent": -2.5
+    },
+    {
+        "id": 175,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1072.64,
+        "dailyChangePercent": -0.87
+    },
+    {
+        "id": 176,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 2124.86,
+        "dailyChangePercent": -0.07
+    },
+    {
+        "id": 177,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2302.63,
+        "dailyChangePercent": -1.02
+    },
+    {
+        "id": 178,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 991.37,
+        "dailyChangePercent": 4.11
+    },
+    {
+        "id": 179,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 366.34,
+        "dailyChangePercent": -3.51
+    },
+    {
+        "id": 180,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "crypto",
+        "currentPrice": 4401.81,
+        "dailyChangePercent": -2.74
+    },
+    {
+        "id": 181,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 3569.57,
+        "dailyChangePercent": -1.22
+    },
+    {
+        "id": 182,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 101.1,
+        "dailyChangePercent": -3.96
+    },
+    {
+        "id": 183,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 3710.03,
+        "dailyChangePercent": -3.56
+    },
+    {
+        "id": 184,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 3842.41,
+        "dailyChangePercent": -3.59
+    },
+    {
+        "id": 185,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 3419.32,
+        "dailyChangePercent": -0.82
+    },
+    {
+        "id": 186,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 4372.6,
+        "dailyChangePercent": -3.98
+    },
+    {
+        "id": 187,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 4937.9,
+        "dailyChangePercent": -0.49
+    },
+    {
+        "id": 188,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1753.99,
+        "dailyChangePercent": -1.03
+    },
+    {
+        "id": 189,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 4913.76,
+        "dailyChangePercent": 3.03
+    },
+    {
+        "id": 190,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 4897.11,
+        "dailyChangePercent": 2.82
+    },
+    {
+        "id": 191,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 1946.19,
+        "dailyChangePercent": -2.91
+    },
+    {
+        "id": 192,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 1083.43,
+        "dailyChangePercent": -1.13
+    },
+    {
+        "id": 193,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2448.86,
+        "dailyChangePercent": -0.26
+    },
+    {
+        "id": 194,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 1125.29,
+        "dailyChangePercent": 3.77
+    },
+    {
+        "id": 195,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 2632.54,
+        "dailyChangePercent": -4.65
+    },
+    {
+        "id": 196,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 1632.22,
+        "dailyChangePercent": -4.35
+    },
+    {
+        "id": 197,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 1735.84,
+        "dailyChangePercent": -1.19
+    },
+    {
+        "id": 198,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 2684.34,
+        "dailyChangePercent": -1.53
+    },
+    {
+        "id": 199,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 1030.93,
+        "dailyChangePercent": 0.05
+    },
+    {
+        "id": 200,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 827.55,
+        "dailyChangePercent": 3.81
+    },
+    {
+        "id": 201,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 363.35,
+        "dailyChangePercent": -3.55
+    },
+    {
+        "id": 202,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 2934.28,
+        "dailyChangePercent": -2.87
+    },
+    {
+        "id": 203,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 4950.38,
+        "dailyChangePercent": -0.68
+    },
+    {
+        "id": 204,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 1592.31,
+        "dailyChangePercent": -2.96
+    },
+    {
+        "id": 205,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 4323.83,
+        "dailyChangePercent": -2.35
+    },
+    {
+        "id": 206,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 997.5,
+        "dailyChangePercent": 2.6
+    },
+    {
+        "id": 207,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 4356.37,
+        "dailyChangePercent": 1.69
+    },
+    {
+        "id": 208,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 1040.68,
+        "dailyChangePercent": -2.5
+    },
+    {
+        "id": 209,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 950.53,
+        "dailyChangePercent": -0.54
+    },
+    {
+        "id": 210,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "crypto",
+        "currentPrice": 3196.98,
+        "dailyChangePercent": 1.68
+    },
+    {
+        "id": 211,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 3074.59,
+        "dailyChangePercent": -0.17
+    },
+    {
+        "id": 212,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 1164.29,
+        "dailyChangePercent": 2.9
+    },
+    {
+        "id": 213,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 604.39,
+        "dailyChangePercent": -2.67
+    },
+    {
+        "id": 214,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2800.83,
+        "dailyChangePercent": -2.96
+    },
+    {
+        "id": 215,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 2494.25,
+        "dailyChangePercent": 4.36
+    },
+    {
+        "id": 216,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 3005.85,
+        "dailyChangePercent": 4.32
+    },
+    {
+        "id": 217,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 945.81,
+        "dailyChangePercent": 1.29
+    },
+    {
+        "id": 218,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 4684.97,
+        "dailyChangePercent": -3.03
+    },
+    {
+        "id": 219,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 4010.08,
+        "dailyChangePercent": -2.95
+    },
+    {
+        "id": 220,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 269.94,
+        "dailyChangePercent": -0.71
+    },
+    {
+        "id": 221,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 3544.04,
+        "dailyChangePercent": -4.17
+    },
+    {
+        "id": 222,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "stock",
+        "currentPrice": 4061.03,
+        "dailyChangePercent": -4.56
+    },
+    {
+        "id": 223,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 2145.89,
+        "dailyChangePercent": 2.7
+    },
+    {
+        "id": 224,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 3771.64,
+        "dailyChangePercent": -4.86
+    },
+    {
+        "id": 225,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 5004.88,
+        "dailyChangePercent": 4.07
+    },
+    {
+        "id": 226,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "crypto",
+        "currentPrice": 528.43,
+        "dailyChangePercent": -1.38
+    },
+    {
+        "id": 227,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 2380.03,
+        "dailyChangePercent": -3.87
+    },
+    {
+        "id": 228,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 4943.81,
+        "dailyChangePercent": -4.82
+    },
+    {
+        "id": 229,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 2423.17,
+        "dailyChangePercent": 4.5
+    },
+    {
+        "id": 230,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 494.8,
+        "dailyChangePercent": 0.25
+    },
+    {
+        "id": 231,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 4129.26,
+        "dailyChangePercent": 1.43
+    },
+    {
+        "id": 232,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 1784.02,
+        "dailyChangePercent": 3
+    },
+    {
+        "id": 233,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 4871.24,
+        "dailyChangePercent": 0.13
+    },
+    {
+        "id": 234,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 1919.91,
+        "dailyChangePercent": 0.98
+    },
+    {
+        "id": 235,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "stock",
+        "currentPrice": 3384.3,
+        "dailyChangePercent": -0.84
+    },
+    {
+        "id": 236,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 1938.09,
+        "dailyChangePercent": -1.41
+    },
+    {
+        "id": 237,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 3374.01,
+        "dailyChangePercent": -3.39
+    },
+    {
+        "id": 238,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "stock",
+        "currentPrice": 412.17,
+        "dailyChangePercent": -4.91
+    },
+    {
+        "id": 239,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 4851.28,
+        "dailyChangePercent": 3.12
+    },
+    {
+        "id": 240,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 506.15,
+        "dailyChangePercent": -0.28
+    },
+    {
+        "id": 241,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 2934.78,
+        "dailyChangePercent": 2.52
+    },
+    {
+        "id": 242,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 2854.69,
+        "dailyChangePercent": 0
+    },
+    {
+        "id": 243,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "stock",
+        "currentPrice": 2354.17,
+        "dailyChangePercent": -0.37
+    },
+    {
+        "id": 244,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 4169.9,
+        "dailyChangePercent": 4.54
+    },
+    {
+        "id": 245,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "stock",
+        "currentPrice": 3573.65,
+        "dailyChangePercent": -2.84
+    },
+    {
+        "id": 246,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 1953.62,
+        "dailyChangePercent": -3.29
+    },
+    {
+        "id": 247,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "crypto",
+        "currentPrice": 2446.09,
+        "dailyChangePercent": -3.19
+    },
+    {
+        "id": 248,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 475.02,
+        "dailyChangePercent": -1.22
+    },
+    {
+        "id": 249,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 1537.16,
+        "dailyChangePercent": -2.98
+    },
+    {
+        "id": 250,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 257.58,
+        "dailyChangePercent": 3.67
+    },
+    {
+        "id": 251,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 4572.54,
+        "dailyChangePercent": -0.43
+    },
+    {
+        "id": 252,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 4369.76,
+        "dailyChangePercent": 3.77
+    },
+    {
+        "id": 253,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 82.07,
+        "dailyChangePercent": 1.92
+    },
+    {
+        "id": 254,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1831.33,
+        "dailyChangePercent": 1.7
+    },
+    {
+        "id": 255,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 2009.47,
+        "dailyChangePercent": -3.23
+    },
+    {
+        "id": 256,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "crypto",
+        "currentPrice": 298.48,
+        "dailyChangePercent": -1.11
+    },
+    {
+        "id": 257,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 740.96,
+        "dailyChangePercent": 3.38
+    },
+    {
+        "id": 258,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 209.25,
+        "dailyChangePercent": 3.35
+    },
+    {
+        "id": 259,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 31.02,
+        "dailyChangePercent": 4.31
+    },
+    {
+        "id": 260,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2238.88,
+        "dailyChangePercent": -4.86
+    },
+    {
+        "id": 261,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 1245.88,
+        "dailyChangePercent": 3.73
+    },
+    {
+        "id": 262,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 3986.04,
+        "dailyChangePercent": -3.27
+    },
+    {
+        "id": 263,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 4220.08,
+        "dailyChangePercent": -0.71
+    },
+    {
+        "id": 264,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 1852.84,
+        "dailyChangePercent": -4.54
+    },
+    {
+        "id": 265,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 3036.57,
+        "dailyChangePercent": -3.89
+    },
+    {
+        "id": 266,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 217.96,
+        "dailyChangePercent": 2.87
+    },
+    {
+        "id": 267,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 3749.12,
+        "dailyChangePercent": 0.67
+    },
+    {
+        "id": 268,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "crypto",
+        "currentPrice": 1534.14,
+        "dailyChangePercent": 0.63
+    },
+    {
+        "id": 269,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 2260.58,
+        "dailyChangePercent": -4.31
+    },
+    {
+        "id": 270,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 846.66,
+        "dailyChangePercent": 1.12
+    },
+    {
+        "id": 271,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 4738.51,
+        "dailyChangePercent": -1.18
+    },
+    {
+        "id": 272,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 1478.77,
+        "dailyChangePercent": -3.46
+    },
+    {
+        "id": 273,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 3250.88,
+        "dailyChangePercent": 2.16
+    },
+    {
+        "id": 274,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 834.73,
+        "dailyChangePercent": -0.99
+    },
+    {
+        "id": 275,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 4034.26,
+        "dailyChangePercent": -0.66
+    },
+    {
+        "id": 276,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 650.77,
+        "dailyChangePercent": 3.22
+    },
+    {
+        "id": 277,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 4308.09,
+        "dailyChangePercent": 2.25
+    },
+    {
+        "id": 278,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "crypto",
+        "currentPrice": 980.54,
+        "dailyChangePercent": -3.93
+    },
+    {
+        "id": 279,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 4621.91,
+        "dailyChangePercent": -1.73
+    },
+    {
+        "id": 280,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 4578.76,
+        "dailyChangePercent": -2.55
+    },
+    {
+        "id": 281,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 1286.35,
+        "dailyChangePercent": 3.7
+    },
+    {
+        "id": 282,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 4546.07,
+        "dailyChangePercent": 2.78
+    },
+    {
+        "id": 283,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 3085.42,
+        "dailyChangePercent": -0.86
+    },
+    {
+        "id": 284,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 3767.48,
+        "dailyChangePercent": -3.89
+    },
+    {
+        "id": 285,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 2592.06,
+        "dailyChangePercent": -3.82
+    },
+    {
+        "id": 286,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 4163.64,
+        "dailyChangePercent": -1.92
+    },
+    {
+        "id": 287,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 2389.02,
+        "dailyChangePercent": 0.21
+    },
+    {
+        "id": 288,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1782.08,
+        "dailyChangePercent": -3.88
+    },
+    {
+        "id": 289,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "stock",
+        "currentPrice": 3314.95,
+        "dailyChangePercent": -0.77
+    },
+    {
+        "id": 290,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 3120.99,
+        "dailyChangePercent": -1.02
+    },
+    {
+        "id": 291,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 86.51,
+        "dailyChangePercent": 0.45
+    },
+    {
+        "id": 292,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 2089.33,
+        "dailyChangePercent": 1.52
+    },
+    {
+        "id": 293,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 3080.33,
+        "dailyChangePercent": -2.52
+    },
+    {
+        "id": 294,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 4185.93,
+        "dailyChangePercent": 0.86
+    },
+    {
+        "id": 295,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 1821.66,
+        "dailyChangePercent": -1.46
+    },
+    {
+        "id": 296,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 2629.16,
+        "dailyChangePercent": -0.5
+    },
+    {
+        "id": 297,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 2953.27,
+        "dailyChangePercent": -2.64
+    },
+    {
+        "id": 298,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 3103.02,
+        "dailyChangePercent": -0.48
+    },
+    {
+        "id": 299,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 3723.56,
+        "dailyChangePercent": 1.01
+    },
+    {
+        "id": 300,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 2430.4,
+        "dailyChangePercent": -3.67
+    },
+    {
+        "id": 301,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "crypto",
+        "currentPrice": 2602.2,
+        "dailyChangePercent": -0.17
+    },
+    {
+        "id": 302,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 4224.1,
+        "dailyChangePercent": 0.54
+    },
+    {
+        "id": 303,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 2485.53,
+        "dailyChangePercent": -3.36
+    },
+    {
+        "id": 304,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 4092.97,
+        "dailyChangePercent": -2.1
+    },
+    {
+        "id": 305,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "crypto",
+        "currentPrice": 107.63,
+        "dailyChangePercent": 3.5
+    },
+    {
+        "id": 306,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 2853.19,
+        "dailyChangePercent": 2.52
+    },
+    {
+        "id": 307,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 933.27,
+        "dailyChangePercent": 2.65
+    },
+    {
+        "id": 308,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 3371.07,
+        "dailyChangePercent": -0.07
+    },
+    {
+        "id": 309,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "crypto",
+        "currentPrice": 19.32,
+        "dailyChangePercent": -3.11
+    },
+    {
+        "id": 310,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 3312.73,
+        "dailyChangePercent": -0.26
+    },
+    {
+        "id": 311,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 3162.21,
+        "dailyChangePercent": 0.41
+    },
+    {
+        "id": 312,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 858.74,
+        "dailyChangePercent": -0.02
+    },
+    {
+        "id": 313,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2167.84,
+        "dailyChangePercent": -1.69
+    },
+    {
+        "id": 314,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "stock",
+        "currentPrice": 3568.97,
+        "dailyChangePercent": -1.67
+    },
+    {
+        "id": 315,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 2380.87,
+        "dailyChangePercent": 2.99
+    },
+    {
+        "id": 316,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 3691.58,
+        "dailyChangePercent": 1.06
+    },
+    {
+        "id": 317,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "stock",
+        "currentPrice": 607.94,
+        "dailyChangePercent": -3.69
+    },
+    {
+        "id": 318,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "stock",
+        "currentPrice": 1595.23,
+        "dailyChangePercent": -0.63
+    },
+    {
+        "id": 319,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 3461.7,
+        "dailyChangePercent": 2.03
+    },
+    {
+        "id": 320,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 2026.55,
+        "dailyChangePercent": -1.67
+    },
+    {
+        "id": 321,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 4821.41,
+        "dailyChangePercent": -0.06
+    },
+    {
+        "id": 322,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "stock",
+        "currentPrice": 997.57,
+        "dailyChangePercent": 2.97
+    },
+    {
+        "id": 323,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 2418,
+        "dailyChangePercent": 2.82
+    },
+    {
+        "id": 324,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 3548.9,
+        "dailyChangePercent": -3.16
+    },
+    {
+        "id": 325,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 3799.2,
+        "dailyChangePercent": -2.88
+    },
+    {
+        "id": 326,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 903.07,
+        "dailyChangePercent": 0.86
+    },
+    {
+        "id": 327,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 2992.72,
+        "dailyChangePercent": 3.3
+    },
+    {
+        "id": 328,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 561.07,
+        "dailyChangePercent": 0.12
+    },
+    {
+        "id": 329,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 4515.04,
+        "dailyChangePercent": 0.27
+    },
+    {
+        "id": 330,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 2148.18,
+        "dailyChangePercent": 2.24
+    },
+    {
+        "id": 331,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 4386.89,
+        "dailyChangePercent": -3.02
+    },
+    {
+        "id": 332,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 4323.24,
+        "dailyChangePercent": 1.41
+    },
+    {
+        "id": 333,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 4855.99,
+        "dailyChangePercent": 2.41
+    },
+    {
+        "id": 334,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "crypto",
+        "currentPrice": 786.02,
+        "dailyChangePercent": 4.04
+    },
+    {
+        "id": 335,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 3293.2,
+        "dailyChangePercent": -0.81
+    },
+    {
+        "id": 336,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 750.49,
+        "dailyChangePercent": -4.16
+    },
+    {
+        "id": 337,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 4401.77,
+        "dailyChangePercent": -4.13
+    },
+    {
+        "id": 338,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 4698.48,
+        "dailyChangePercent": -2.86
+    },
+    {
+        "id": 339,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 3201.1,
+        "dailyChangePercent": -3.07
+    },
+    {
+        "id": 340,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "crypto",
+        "currentPrice": 2789.11,
+        "dailyChangePercent": 4.13
+    },
+    {
+        "id": 341,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 2524.59,
+        "dailyChangePercent": 1.49
+    },
+    {
+        "id": 342,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2158.41,
+        "dailyChangePercent": 1.85
+    },
+    {
+        "id": 343,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 645.34,
+        "dailyChangePercent": -3.6
+    },
+    {
+        "id": 344,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 2647.64,
+        "dailyChangePercent": 2.16
+    },
+    {
+        "id": 345,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 1959.72,
+        "dailyChangePercent": 3.34
+    },
+    {
+        "id": 346,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 4759.09,
+        "dailyChangePercent": -2.88
+    },
+    {
+        "id": 347,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 3301.91,
+        "dailyChangePercent": 3.11
+    },
+    {
+        "id": 348,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 3784.28,
+        "dailyChangePercent": -3.41
+    },
+    {
+        "id": 349,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "stock",
+        "currentPrice": 2502.01,
+        "dailyChangePercent": -3.78
+    },
+    {
+        "id": 350,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 2389.75,
+        "dailyChangePercent": -4.65
+    },
+    {
+        "id": 351,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 578.4,
+        "dailyChangePercent": -3.21
+    },
+    {
+        "id": 352,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 3745.21,
+        "dailyChangePercent": -2.9
+    },
+    {
+        "id": 353,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "crypto",
+        "currentPrice": 3444.35,
+        "dailyChangePercent": 3.37
+    },
+    {
+        "id": 354,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 2080.57,
+        "dailyChangePercent": 3.91
+    },
+    {
+        "id": 355,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 2225.37,
+        "dailyChangePercent": 2.14
+    },
+    {
+        "id": 356,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 2411.39,
+        "dailyChangePercent": -1.97
+    },
+    {
+        "id": 357,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 4309.21,
+        "dailyChangePercent": -4.42
+    },
+    {
+        "id": 358,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 3180.62,
+        "dailyChangePercent": 0.91
+    },
+    {
+        "id": 359,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 1116.22,
+        "dailyChangePercent": -0.66
+    },
+    {
+        "id": 360,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 4104.86,
+        "dailyChangePercent": 3.97
+    },
+    {
+        "id": 361,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 4553.28,
+        "dailyChangePercent": 4.5
+    },
+    {
+        "id": 362,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 3375.49,
+        "dailyChangePercent": 2.86
+    },
+    {
+        "id": 363,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 414.46,
+        "dailyChangePercent": 1.66
+    },
+    {
+        "id": 364,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2218.78,
+        "dailyChangePercent": -1.97
+    },
+    {
+        "id": 365,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 3940.65,
+        "dailyChangePercent": 4.25
+    },
+    {
+        "id": 366,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 4981.13,
+        "dailyChangePercent": 0.02
+    },
+    {
+        "id": 367,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 4246.7,
+        "dailyChangePercent": 1.52
+    },
+    {
+        "id": 368,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 2107.67,
+        "dailyChangePercent": -3.22
+    },
+    {
+        "id": 369,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 2362.29,
+        "dailyChangePercent": 2.04
+    },
+    {
+        "id": 370,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 3468.99,
+        "dailyChangePercent": 0.13
+    },
+    {
+        "id": 371,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 3388.89,
+        "dailyChangePercent": -0.88
+    },
+    {
+        "id": 372,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 4437.65,
+        "dailyChangePercent": 3.19
+    },
+    {
+        "id": 373,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "stock",
+        "currentPrice": 636.33,
+        "dailyChangePercent": -4.29
+    },
+    {
+        "id": 374,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 3637.02,
+        "dailyChangePercent": 1.37
+    },
+    {
+        "id": 375,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 31.62,
+        "dailyChangePercent": -3.25
+    },
+    {
+        "id": 376,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 3373.85,
+        "dailyChangePercent": 0.51
+    },
+    {
+        "id": 377,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 2781.03,
+        "dailyChangePercent": -0.62
+    },
+    {
+        "id": 378,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 2189.7,
+        "dailyChangePercent": -1.97
+    },
+    {
+        "id": 379,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 1616.84,
+        "dailyChangePercent": 3.7
+    },
+    {
+        "id": 380,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "crypto",
+        "currentPrice": 2725.95,
+        "dailyChangePercent": 3.34
+    },
+    {
+        "id": 381,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "crypto",
+        "currentPrice": 4105.68,
+        "dailyChangePercent": 5
+    },
+    {
+        "id": 382,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 2547.71,
+        "dailyChangePercent": -0.39
+    },
+    {
+        "id": 383,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 4629.89,
+        "dailyChangePercent": 4.81
+    },
+    {
+        "id": 384,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 706.33,
+        "dailyChangePercent": 2.25
+    },
+    {
+        "id": 385,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 1026.24,
+        "dailyChangePercent": -5
+    },
+    {
+        "id": 386,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 389.49,
+        "dailyChangePercent": -2.17
+    },
+    {
+        "id": 387,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 2579.59,
+        "dailyChangePercent": 2.44
+    },
+    {
+        "id": 388,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 277.91,
+        "dailyChangePercent": -4.98
+    },
+    {
+        "id": 389,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 189.41,
+        "dailyChangePercent": -3.48
+    },
+    {
+        "id": 390,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 446.7,
+        "dailyChangePercent": -2.87
+    },
+    {
+        "id": 391,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 4129.68,
+        "dailyChangePercent": -0.39
+    },
+    {
+        "id": 392,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2089.26,
+        "dailyChangePercent": -0.94
+    },
+    {
+        "id": 393,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 1543.83,
+        "dailyChangePercent": -4.85
+    },
+    {
+        "id": 394,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 3492.16,
+        "dailyChangePercent": -0.26
+    },
+    {
+        "id": 395,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "stock",
+        "currentPrice": 668.7,
+        "dailyChangePercent": 1.78
+    },
+    {
+        "id": 396,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 3649.76,
+        "dailyChangePercent": 1.61
+    },
+    {
+        "id": 397,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 306.65,
+        "dailyChangePercent": 3.43
+    },
+    {
+        "id": 398,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "crypto",
+        "currentPrice": 3088.65,
+        "dailyChangePercent": -3.35
+    },
+    {
+        "id": 399,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 4569.56,
+        "dailyChangePercent": -1.81
+    },
+    {
+        "id": 400,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "crypto",
+        "currentPrice": 2014.07,
+        "dailyChangePercent": 1.07
+    },
+    {
+        "id": 401,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 4678.12,
+        "dailyChangePercent": 2.54
+    },
+    {
+        "id": 402,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 1116.14,
+        "dailyChangePercent": -0.37
+    },
+    {
+        "id": 403,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 3494.41,
+        "dailyChangePercent": -1.49
+    },
+    {
+        "id": 404,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 2687.22,
+        "dailyChangePercent": 2.39
+    },
+    {
+        "id": 405,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 3665.83,
+        "dailyChangePercent": -4.51
+    },
+    {
+        "id": 406,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 454.76,
+        "dailyChangePercent": -2.37
+    },
+    {
+        "id": 407,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 4990.29,
+        "dailyChangePercent": 0.94
+    },
+    {
+        "id": 408,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "stock",
+        "currentPrice": 3810.1,
+        "dailyChangePercent": 4.27
+    },
+    {
+        "id": 409,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 2464.99,
+        "dailyChangePercent": -4.48
+    },
+    {
+        "id": 410,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 2877.96,
+        "dailyChangePercent": 0.68
+    },
+    {
+        "id": 411,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 1121.1,
+        "dailyChangePercent": 0.27
+    },
+    {
+        "id": 412,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "crypto",
+        "currentPrice": 1775.94,
+        "dailyChangePercent": -2.05
+    },
+    {
+        "id": 413,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 1823.14,
+        "dailyChangePercent": 4.53
+    },
+    {
+        "id": 414,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 2618.57,
+        "dailyChangePercent": 4.44
+    },
+    {
+        "id": 415,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 1289.47,
+        "dailyChangePercent": -1.65
+    },
+    {
+        "id": 416,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 1284.2,
+        "dailyChangePercent": -3.04
+    },
+    {
+        "id": 417,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 1060.06,
+        "dailyChangePercent": -1.46
+    },
+    {
+        "id": 418,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "stock",
+        "currentPrice": 2439.32,
+        "dailyChangePercent": 0.44
+    },
+    {
+        "id": 419,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "crypto",
+        "currentPrice": 3506.88,
+        "dailyChangePercent": -1.85
+    },
+    {
+        "id": 420,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 3242.42,
+        "dailyChangePercent": -3.32
+    },
+    {
+        "id": 421,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "stock",
+        "currentPrice": 73.18,
+        "dailyChangePercent": -0.33
+    },
+    {
+        "id": 422,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 4348.49,
+        "dailyChangePercent": -3.12
+    },
+    {
+        "id": 423,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 1121.88,
+        "dailyChangePercent": -0.13
+    },
+    {
+        "id": 424,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 304.32,
+        "dailyChangePercent": -3.91
+    },
+    {
+        "id": 425,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 3036.96,
+        "dailyChangePercent": 3.45
+    },
+    {
+        "id": 426,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "crypto",
+        "currentPrice": 3676.61,
+        "dailyChangePercent": -4.28
+    },
+    {
+        "id": 427,
+        "name": "Intel Corporation",
+        "symbol": "IC",
+        "type": "crypto",
+        "currentPrice": 924.64,
+        "dailyChangePercent": 0.06
+    },
+    {
+        "id": 428,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "stock",
+        "currentPrice": 1954.8,
+        "dailyChangePercent": 2.69
+    },
+    {
+        "id": 429,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 1859.32,
+        "dailyChangePercent": -3.91
+    },
+    {
+        "id": 430,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "crypto",
+        "currentPrice": 1835.86,
+        "dailyChangePercent": -0.09
+    },
+    {
+        "id": 431,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 234.49,
+        "dailyChangePercent": 1.82
+    },
+    {
+        "id": 432,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 2808.65,
+        "dailyChangePercent": -4.83
+    },
+    {
+        "id": 433,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 3824.38,
+        "dailyChangePercent": 1.65
+    },
+    {
+        "id": 434,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 182.49,
+        "dailyChangePercent": 4.7
+    },
+    {
+        "id": 435,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "crypto",
+        "currentPrice": 2281.01,
+        "dailyChangePercent": -3.47
+    },
+    {
+        "id": 436,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 1338.75,
+        "dailyChangePercent": -0.24
+    },
+    {
+        "id": 437,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 116,
+        "dailyChangePercent": -1.79
+    },
+    {
+        "id": 438,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 1801.98,
+        "dailyChangePercent": -3.79
+    },
+    {
+        "id": 439,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 2125.31,
+        "dailyChangePercent": -1.92
+    },
+    {
+        "id": 440,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 3292.17,
+        "dailyChangePercent": 3.94
+    },
+    {
+        "id": 441,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 4541.97,
+        "dailyChangePercent": 3.37
+    },
+    {
+        "id": 442,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 1515.04,
+        "dailyChangePercent": 3.42
+    },
+    {
+        "id": 443,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 4215.87,
+        "dailyChangePercent": 0.74
+    },
+    {
+        "id": 444,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 502.88,
+        "dailyChangePercent": 0.2
+    },
+    {
+        "id": 445,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 3233.78,
+        "dailyChangePercent": -3.41
+    },
+    {
+        "id": 446,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 1306.08,
+        "dailyChangePercent": -4.82
+    },
+    {
+        "id": 447,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "crypto",
+        "currentPrice": 4356.9,
+        "dailyChangePercent": 1.98
+    },
+    {
+        "id": 448,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 1187.96,
+        "dailyChangePercent": 2.21
+    },
+    {
+        "id": 449,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 2757.68,
+        "dailyChangePercent": 3.8
+    },
+    {
+        "id": 450,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 1557.29,
+        "dailyChangePercent": -0.78
+    },
+    {
+        "id": 451,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 523.87,
+        "dailyChangePercent": -0.9
+    },
+    {
+        "id": 452,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 3702.12,
+        "dailyChangePercent": 2.01
+    },
+    {
+        "id": 453,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 1949,
+        "dailyChangePercent": 3.81
+    },
+    {
+        "id": 454,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 3858.79,
+        "dailyChangePercent": -2.57
+    },
+    {
+        "id": 455,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 3723.17,
+        "dailyChangePercent": 0.18
+    },
+    {
+        "id": 456,
+        "name": "Twitter Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 252.5,
+        "dailyChangePercent": -0.74
+    },
+    {
+        "id": 457,
+        "name": "Apple Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 3653.36,
+        "dailyChangePercent": -3.01
+    },
+    {
+        "id": 458,
+        "name": "Shopify Inc.",
+        "symbol": "SI",
+        "type": "stock",
+        "currentPrice": 3213.26,
+        "dailyChangePercent": -3.89
+    },
+    {
+        "id": 459,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "stock",
+        "currentPrice": 4863.27,
+        "dailyChangePercent": -3.07
+    },
+    {
+        "id": 460,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 692.62,
+        "dailyChangePercent": -2.04
+    },
+    {
+        "id": 461,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 1628.72,
+        "dailyChangePercent": -4.02
+    },
+    {
+        "id": 462,
+        "name": "PayPal Holdings",
+        "symbol": "PH",
+        "type": "stock",
+        "currentPrice": 4397.51,
+        "dailyChangePercent": 2.63
+    },
+    {
+        "id": 463,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 229.06,
+        "dailyChangePercent": -1.71
+    },
+    {
+        "id": 464,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "crypto",
+        "currentPrice": 3784.19,
+        "dailyChangePercent": -3.51
+    },
+    {
+        "id": 465,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "crypto",
+        "currentPrice": 207.36,
+        "dailyChangePercent": 4.22
+    },
+    {
+        "id": 466,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "stock",
+        "currentPrice": 1561.89,
+        "dailyChangePercent": 3.21
+    },
+    {
+        "id": 467,
+        "name": "Cardano",
+        "symbol": "C",
+        "type": "stock",
+        "currentPrice": 24.75,
+        "dailyChangePercent": -3.94
+    },
+    {
+        "id": 468,
+        "name": "Facebook Inc.",
+        "symbol": "FI",
+        "type": "stock",
+        "currentPrice": 1163.7,
+        "dailyChangePercent": 3.44
+    },
+    {
+        "id": 469,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 3926.62,
+        "dailyChangePercent": -3.32
+    },
+    {
+        "id": 470,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 3072.36,
+        "dailyChangePercent": 0.32
+    },
+    {
+        "id": 471,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 4500.73,
+        "dailyChangePercent": 1.68
+    },
+    {
+        "id": 472,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "stock",
+        "currentPrice": 3095.79,
+        "dailyChangePercent": 4.9
+    },
+    {
+        "id": 473,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "stock",
+        "currentPrice": 82.91,
+        "dailyChangePercent": -4.19
+    },
+    {
+        "id": 474,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 3567.09,
+        "dailyChangePercent": 1.35
+    },
+    {
+        "id": 475,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 3074.69,
+        "dailyChangePercent": 0.32
+    },
+    {
+        "id": 476,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 4301.22,
+        "dailyChangePercent": -3.01
+    },
+    {
+        "id": 477,
+        "name": "Polkadot",
+        "symbol": "P",
+        "type": "crypto",
+        "currentPrice": 4564.85,
+        "dailyChangePercent": -4.74
+    },
+    {
+        "id": 478,
+        "name": "Amazon.com Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 1804.27,
+        "dailyChangePercent": -3.51
+    },
+    {
+        "id": 479,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 2598.21,
+        "dailyChangePercent": 4.76
+    },
+    {
+        "id": 480,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "crypto",
+        "currentPrice": 2876.12,
+        "dailyChangePercent": -4.66
+    },
+    {
+        "id": 481,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "crypto",
+        "currentPrice": 2180.81,
+        "dailyChangePercent": -0.13
+    },
+    {
+        "id": 482,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 3956.93,
+        "dailyChangePercent": 3.06
+    },
+    {
+        "id": 483,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 3333.77,
+        "dailyChangePercent": 0.13
+    },
+    {
+        "id": 484,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 961.06,
+        "dailyChangePercent": -0.6
+    },
+    {
+        "id": 485,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "crypto",
+        "currentPrice": 2252.36,
+        "dailyChangePercent": 4.78
+    },
+    {
+        "id": 486,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "stock",
+        "currentPrice": 3750.04,
+        "dailyChangePercent": 1.48
+    },
+    {
+        "id": 487,
+        "name": "Alphabet Inc.",
+        "symbol": "AI",
+        "type": "stock",
+        "currentPrice": 379.71,
+        "dailyChangePercent": 2.02
+    },
+    {
+        "id": 488,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "crypto",
+        "currentPrice": 1108.25,
+        "dailyChangePercent": -2.2
+    },
+    {
+        "id": 489,
+        "name": "IBM",
+        "symbol": "I",
+        "type": "stock",
+        "currentPrice": 4607.13,
+        "dailyChangePercent": 3.98
+    },
+    {
+        "id": 490,
+        "name": "Microsoft Corporation",
+        "symbol": "MC",
+        "type": "stock",
+        "currentPrice": 1712.56,
+        "dailyChangePercent": 1.19
+    },
+    {
+        "id": 491,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "stock",
+        "currentPrice": 4444.82,
+        "dailyChangePercent": 1.19
+    },
+    {
+        "id": 492,
+        "name": "Solana",
+        "symbol": "S",
+        "type": "stock",
+        "currentPrice": 1006.84,
+        "dailyChangePercent": -0.41
+    },
+    {
+        "id": 493,
+        "name": "Netflix Inc.",
+        "symbol": "NI",
+        "type": "crypto",
+        "currentPrice": 3248.15,
+        "dailyChangePercent": 3.32
+    },
+    {
+        "id": 494,
+        "name": "Tesla Inc.",
+        "symbol": "TI",
+        "type": "stock",
+        "currentPrice": 4989.4,
+        "dailyChangePercent": 1.18
+    },
+    {
+        "id": 495,
+        "name": "XRP",
+        "symbol": "X",
+        "type": "crypto",
+        "currentPrice": 3309.32,
+        "dailyChangePercent": 2.7
+    },
+    {
+        "id": 496,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "crypto",
+        "currentPrice": 3924.71,
+        "dailyChangePercent": 3.09
+    },
+    {
+        "id": 497,
+        "name": "Bitcoin",
+        "symbol": "B",
+        "type": "stock",
+        "currentPrice": 3372.86,
+        "dailyChangePercent": -3.71
+    },
+    {
+        "id": 498,
+        "name": "Nvidia Corporation",
+        "symbol": "NC",
+        "type": "stock",
+        "currentPrice": 2789,
+        "dailyChangePercent": 1.2
+    },
+    {
+        "id": 499,
+        "name": "Litecoin",
+        "symbol": "L",
+        "type": "crypto",
+        "currentPrice": 3167.53,
+        "dailyChangePercent": 3.47
+    },
+    {
+        "id": 500,
+        "name": "Ethereum",
+        "symbol": "E",
+        "type": "crypto",
+        "currentPrice": 378.5,
+        "dailyChangePercent": -1.32
+    }
+]
